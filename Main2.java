@@ -1,4 +1,4 @@
-public class Main {
+public class Main2 {
 
     static int maxSubArray(int[] nums) {
 
